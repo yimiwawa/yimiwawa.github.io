@@ -1,2 +1,17 @@
 markdown: rdiscount
 pygments: true
+
+title:            Lisa's Blog
+description:      不积跬步无以至千里
+search:           true
+
+owner:
+  name:           Lisa Hou
+  avatar:         bio-photo.jpg
+  email:          597663457@qq.com
+  
+  github:         https://github.com/yimiwawa  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
